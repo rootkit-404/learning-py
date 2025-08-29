@@ -1,1 +1,1 @@
-# learning-py
+# just learning python
